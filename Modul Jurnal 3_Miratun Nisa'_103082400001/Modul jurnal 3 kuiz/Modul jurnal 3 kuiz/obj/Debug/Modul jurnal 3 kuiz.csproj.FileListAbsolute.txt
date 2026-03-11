@@ -1,0 +1,10 @@
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\bin\Debug\Modul jurnal 3 kuiz.exe.config
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\bin\Debug\Modul jurnal 3 kuiz.exe
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\bin\Debug\Modul jurnal 3 kuiz.pdb
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\obj\Debug\Modul jurnal 3 kuiz.csproj.AssemblyReference.cache
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\obj\Debug\Modul_jurnal_3_kuiz.Form1.resources
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\obj\Debug\Modul_jurnal_3_kuiz.Properties.Resources.resources
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\obj\Debug\Modul jurnal 3 kuiz.csproj.GenerateResource.cache
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\obj\Debug\Modul jurnal 3 kuiz.csproj.CoreCompileInputs.cache
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\obj\Debug\Modul jurnal 3 kuiz.exe
+D:\KONSTRUKSI PERANGKAT LUNAK\Modul Jurnal 3_Miratun Nisa'_103082400001\Modul jurnal 3 kuiz\Modul jurnal 3 kuiz\obj\Debug\Modul jurnal 3 kuiz.pdb
